@@ -1,2 +1,2 @@
-# I2P1-final-project
+# Intro-programming-final-project
  
